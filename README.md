@@ -16,7 +16,7 @@ A fully functional Contact Book application using `Tkinter` that enables users t
 ### 🔗 Connect with me:
 
 - **LinkedIn**:www.linkedin.com/in/siddharth-kumar-30352b325
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: https://github.com/sid2249774/codsoft.git
 
 ---
 
